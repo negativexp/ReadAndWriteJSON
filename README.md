@@ -1,2 +1,2 @@
 # Read and write JSON
-Simple program that writes and reads JSON format
+Simple program that reads and writes JSON format
